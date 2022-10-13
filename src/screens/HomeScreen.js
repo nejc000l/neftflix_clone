@@ -1,9 +1,9 @@
 import React from 'react'
 import "./HomeScreen.css"
-import Nav from './Nav'
-import Banner from './Banner'
-import Row from './Row'
-import request from './Request'
+import Nav from '../Nav'
+import Banner from '../Banner'
+import Row from '../Row'
+import request from '../Request'
 function HomeScreen() {
   return (
     <div className="home-screen">
